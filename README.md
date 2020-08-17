@@ -1,6 +1,6 @@
 # The-Simon-Game
 
-**This is  a trivial Simon game** ,*just click  on any of  the boxes to get started.
+**This is  a trivial Simon game** ,just click  on any of  the boxes to get started.
 
 ![alt text](https://user-images.githubusercontent.com/35214978/90360749-259e8880-e07a-11ea-88ec-f05f45ee75af.png?raw=true)
 
